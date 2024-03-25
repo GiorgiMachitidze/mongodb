@@ -1,1 +1,1 @@
-# mongodb
+The Python script UNI.py connects to the MongoDB instance running on localhost, creates or accesses the 'study' database, and populates it with data regarding advisors, students, and their relationships. The script then performs an aggregate query to count the number of students each advisor has and prints the results.
